@@ -1,0 +1,16 @@
+.body{
+	background-color: #3c76b7;
+	background-size: auto;
+}
+
+.div{
+	background-color: #3f4040;
+	padding: 15px;
+	border-radius: 20px;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}

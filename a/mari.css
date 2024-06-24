@@ -1,0 +1,32 @@
+.body{
+	background-color: #3c76b7;
+	background-size: auto;
+}
+
+.div{
+	background-color: #3f4040;
+	padding: 15px;
+	border-radius: 20px;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+.img{
+	height:150px;
+	width:140px;
+}
+
+.a{
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	margin-left:5px;
+	background-color: #3c76b7;
+	padding: 10px;
+	border-radius: 10px;
+}
